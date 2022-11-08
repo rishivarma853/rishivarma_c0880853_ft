@@ -15,6 +15,7 @@
 		80FBACB72919CF9400832250 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 80FBACB52919CF9400832250 /* LaunchScreen.storyboard */; };
 		80FBACBF2919D2B100832250 /* Black Crayon.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 80FBACBE2919D2B100832250 /* Black Crayon.ttf */; };
 		80FBACC12919DD2800832250 /* GameEngine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80FBACC02919DD2800832250 /* GameEngine.swift */; };
+		80FBACC32919EB1200832250 /* CoalhandLuke TRIAL.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 80FBACC22919EB1200832250 /* CoalhandLuke TRIAL.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		80FBACB82919CF9400832250 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		80FBACBE2919D2B100832250 /* Black Crayon.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Black Crayon.ttf"; path = "../../../../../../../../Downloads/black-crayon/Black Crayon.ttf"; sourceTree = "<group>"; };
 		80FBACC02919DD2800832250 /* GameEngine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameEngine.swift; sourceTree = SOURCE_ROOT; };
+		80FBACC22919EB1200832250 /* CoalhandLuke TRIAL.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "CoalhandLuke TRIAL.ttf"; path = "../../../../../../../../Downloads/coal-hand-luke/CoalhandLuke TRIAL.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				80FBACC02919DD2800832250 /* GameEngine.swift */,
 				80FBACAE2919CF9300832250 /* ViewController.swift */,
 				80FBACB02919CF9300832250 /* Main.storyboard */,
+				80FBACC22919EB1200832250 /* CoalhandLuke TRIAL.ttf */,
 				80FBACBE2919D2B100832250 /* Black Crayon.ttf */,
 				80FBACB32919CF9400832250 /* Assets.xcassets */,
 				80FBACB52919CF9400832250 /* LaunchScreen.storyboard */,
@@ -131,6 +134,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				80FBACC32919EB1200832250 /* CoalhandLuke TRIAL.ttf in Resources */,
 				80FBACB72919CF9400832250 /* LaunchScreen.storyboard in Resources */,
 				80FBACBF2919D2B100832250 /* Black Crayon.ttf in Resources */,
 				80FBACB42919CF9400832250 /* Assets.xcassets in Resources */,
