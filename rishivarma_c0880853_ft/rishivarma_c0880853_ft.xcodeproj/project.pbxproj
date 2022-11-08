@@ -14,6 +14,7 @@
 		80FBACB42919CF9400832250 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 80FBACB32919CF9400832250 /* Assets.xcassets */; };
 		80FBACB72919CF9400832250 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 80FBACB52919CF9400832250 /* LaunchScreen.storyboard */; };
 		80FBACBF2919D2B100832250 /* Black Crayon.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 80FBACBE2919D2B100832250 /* Black Crayon.ttf */; };
+		80FBACC12919DD2800832250 /* GameEngine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80FBACC02919DD2800832250 /* GameEngine.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		80FBACB62919CF9400832250 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		80FBACB82919CF9400832250 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		80FBACBE2919D2B100832250 /* Black Crayon.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Black Crayon.ttf"; path = "../../../../../../../../Downloads/black-crayon/Black Crayon.ttf"; sourceTree = "<group>"; };
+		80FBACC02919DD2800832250 /* GameEngine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameEngine.swift; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 			children = (
 				80FBACAA2919CF9300832250 /* AppDelegate.swift */,
 				80FBACAC2919CF9300832250 /* SceneDelegate.swift */,
+				80FBACC02919DD2800832250 /* GameEngine.swift */,
 				80FBACAE2919CF9300832250 /* ViewController.swift */,
 				80FBACB02919CF9300832250 /* Main.storyboard */,
 				80FBACBE2919D2B100832250 /* Black Crayon.ttf */,
@@ -145,6 +148,7 @@
 				80FBACAF2919CF9300832250 /* ViewController.swift in Sources */,
 				80FBACAB2919CF9300832250 /* AppDelegate.swift in Sources */,
 				80FBACAD2919CF9300832250 /* SceneDelegate.swift in Sources */,
+				80FBACC12919DD2800832250 /* GameEngine.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
